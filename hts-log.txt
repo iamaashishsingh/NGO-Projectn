@@ -1,0 +1,514 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 22 Jan 2023 18:54:29 at https://khushii.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://khushii.org/ -O1 "C:\My Web Sites\khushi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:55:06	Error: 	"Not Found" (404) at link https://khushii.org/OneSignalSDKUpdaterWorker.js (from https://khushii.org/)
+18:55:06	Error: 	"Not Found" (404) at link https://khushii.org/OneSignalSDKWorker.js (from https://khushii.org/)
+18:55:06	Warning: 	Link https://khushii.org/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/ not scanned (follow robots meta tag)
+18:55:06	Warning: 	Link https://khushii.org/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+18:56:33	Warning: 	Link https://khushii.org/arts-events/new-event/ not scanned (follow robots meta tag)
+18:57:31	Error: 	"Not Found" (404) at link https://khushii.org/?page_id=245 (from https://khushii.org/)
+18:57:31	Error: 	"Not Found" (404) at link https://khushii.org/wp-content/themes/khushii/css/owl.video.play.png (from https://khushii.org/wp-content/themes/khushii/css/owl.carousel.css)
+18:57:35	Error: 	"Not Found" (404) at link https://khushii.org/POST (from https://connect.facebook.net/en_US/fbevents.js)
+18:57:35	Warning: 	Moved Permanently for https://khushii.org/?p=8
+18:57:35	Warning: 	File has moved from https://khushii.org/?p=8 to https://khushii.org/who-we-are/
+18:57:35	Error: 	"Not Found" (404) at link https://khushii.org/who-we-are/OneSignalSDKUpdaterWorker.js (from https://khushii.org/who-we-are/)
+18:57:35	Error: 	"Not Found" (404) at link https://khushii.org/who-we-are/OneSignalSDKWorker.js (from https://khushii.org/who-we-are/)
+18:57:35	Warning: 	Moved Permanently for https://khushii.org/?p=201
+18:57:35	Warning: 	File has moved from https://khushii.org/?p=201 to https://khushii.org/who-we-are/leadership/
+18:57:35	Error: 	"Not Found" (404) at link https://khushii.org/who-we-are/leadership/OneSignalSDKUpdaterWorker.js (from https://khushii.org/who-we-are/leadership/)
+18:57:35	Error: 	"Not Found" (404) at link https://khushii.org/who-we-are/leadership/OneSignalSDKWorker.js (from https://khushii.org/who-we-are/leadership/)
+18:57:35	Warning: 	Moved Permanently for https://khushii.org/?p=3182
+18:57:35	Warning: 	File has moved from https://khushii.org/?p=3182 to https://khushii.org/who-we-are/leadership-2/
+18:57:35	Error: 	"Not Found" (404) at link https://khushii.org/who-we-are/leadership-2/OneSignalSDKUpdaterWorker.js (from https://khushii.org/who-we-are/leadership-2/)
+18:57:35	Error: 	"Not Found" (404) at link https://khushii.org/who-we-are/leadership-2/OneSignalSDKWorker.js (from https://khushii.org/who-we-are/leadership-2/)
+18:57:35	Warning: 	Moved Permanently for https://khushii.org/?p=216
+18:57:35	Warning: 	File has moved from https://khushii.org/?p=216 to https://khushii.org/what-we-do/education/
+18:57:35	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/education/OneSignalSDKUpdaterWorker.js (from https://khushii.org/what-we-do/education/)
+18:57:35	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/education/OneSignalSDKWorker.js (from https://khushii.org/what-we-do/education/)
+18:57:35	Warning: 	Moved Permanently for https://khushii.org/?p=214
+18:57:35	Warning: 	File has moved from https://khushii.org/?p=214 to https://khushii.org/what-we-do/covid-response/
+18:57:36	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/covid-response/OneSignalSDKUpdaterWorker.js (from https://khushii.org/what-we-do/covid-response/)
+18:57:36	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/covid-response/OneSignalSDKWorker.js (from https://khushii.org/what-we-do/covid-response/)
+18:57:39	Warning: 	Moved Permanently for https://khushii.org/?p=241
+18:57:39	Warning: 	File has moved from https://khushii.org/?p=241 to https://khushii.org/what-we-do/education/swatantra-shikshaantra/
+18:57:39	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/education/swatantra-shikshaantra/OneSignalSDKUpdaterWorker.js (from https://khushii.org/what-we-do/education/swatantra-shikshaantra/)
+18:57:39	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/education/swatantra-shikshaantra/OneSignalSDKWorker.js (from https://khushii.org/what-we-do/education/swatantra-shikshaantra/)
+18:57:39	Warning: 	Moved Permanently for https://khushii.org/?p=242
+18:57:39	Warning: 	File has moved from https://khushii.org/?p=242 to https://khushii.org/what-we-do/education/shikshaantra-plus/
+18:57:39	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/education/shikshaantra-plus/OneSignalSDKUpdaterWorker.js (from https://khushii.org/what-we-do/education/shikshaantra-plus/)
+18:57:39	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/education/shikshaantra-plus/OneSignalSDKWorker.js (from https://khushii.org/what-we-do/education/shikshaantra-plus/)
+18:57:39	Warning: 	Moved Permanently for https://khushii.org/?p=2051
+18:57:39	Warning: 	File has moved from https://khushii.org/?p=2051 to https://khushii.org/kite-volunteer/
+18:57:39	Error: 	"Not Found" (404) at link https://khushii.org/kite-volunteer/OneSignalSDKUpdaterWorker.js (from https://khushii.org/kite-volunteer/)
+18:57:39	Error: 	"Not Found" (404) at link https://khushii.org/kite-volunteer/OneSignalSDKWorker.js (from https://khushii.org/kite-volunteer/)
+18:57:39	Warning: 	Moved Permanently for https://khushii.org/?p=217
+18:57:39	Warning: 	File has moved from https://khushii.org/?p=217 to https://khushii.org/what-we-do/wellbeing/
+18:57:39	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/wellbeing/OneSignalSDKUpdaterWorker.js (from https://khushii.org/what-we-do/wellbeing/)
+18:57:39	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/wellbeing/OneSignalSDKWorker.js (from https://khushii.org/what-we-do/wellbeing/)
+18:57:40	Warning: 	Moved Permanently for https://khushii.org/?p=231
+18:57:40	Warning: 	File has moved from https://khushii.org/?p=231 to https://khushii.org/what-we-do/community-empowerment/
+18:57:40	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/community-empowerment/OneSignalSDKUpdaterWorker.js (from https://khushii.org/what-we-do/community-empowerment/)
+18:57:40	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/community-empowerment/OneSignalSDKWorker.js (from https://khushii.org/what-we-do/community-empowerment/)
+18:57:40	Warning: 	Moved Permanently for https://khushii.org/?p=221
+18:57:40	Warning: 	File has moved from https://khushii.org/?p=221 to https://khushii.org/what-we-do/wellbeing/shiksha-aur-vikas/
+18:57:40	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/wellbeing/shiksha-aur-vikas/OneSignalSDKUpdaterWorker.js (from https://khushii.org/what-we-do/wellbeing/shiksha-aur-vikas/)
+18:57:40	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/wellbeing/shiksha-aur-vikas/OneSignalSDKWorker.js (from https://khushii.org/what-we-do/wellbeing/shiksha-aur-vikas/)
+18:57:40	Warning: 	Moved Permanently for https://khushii.org/?p=233
+18:57:40	Warning: 	File has moved from https://khushii.org/?p=233 to https://khushii.org/what-we-do/community-empowerment/kala/
+18:57:40	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/community-empowerment/kala/OneSignalSDKUpdaterWorker.js (from https://khushii.org/what-we-do/community-empowerment/kala/)
+18:57:40	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/community-empowerment/kala/OneSignalSDKWorker.js (from https://khushii.org/what-we-do/community-empowerment/kala/)
+18:57:40	Warning: 	Moved Permanently for https://khushii.org/?p=237
+18:57:40	Warning: 	File has moved from https://khushii.org/?p=237 to https://khushii.org/what-we-do/success-stories/
+18:57:40	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/success-stories/OneSignalSDKUpdaterWorker.js (from https://khushii.org/what-we-do/success-stories/)
+18:57:40	Error: 	"Not Found" (404) at link https://khushii.org/what-we-do/success-stories/OneSignalSDKWorker.js (from https://khushii.org/what-we-do/success-stories/)
+18:58:07	Warning: 	Moved Permanently for https://khushii.org/?p=3191
+18:58:07	Warning: 	File has moved from https://khushii.org/?p=3191 to https://khushii.org/arts-events/artworks/
+18:58:07	Error: 	"Not Found" (404) at link https://khushii.org/arts-events/artworks/OneSignalSDKUpdaterWorker.js (from https://khushii.org/arts-events/artworks/)
+18:58:07	Error: 	"Not Found" (404) at link https://khushii.org/arts-events/artworks/OneSignalSDKWorker.js (from https://khushii.org/arts-events/artworks/)
+18:58:18	Warning: 	Moved Permanently for https://khushii.org/?p=6
+18:58:18	Warning: 	File has moved from https://khushii.org/?p=6 to https://khushii.org/home/
+18:58:18	Error: 	"Not Found" (404) at link https://khushii.org/home/OneSignalSDKUpdaterWorker.js (from https://khushii.org/home/)
+18:58:20	Error: 	"Not Found" (404) at link https://khushii.org/home/OneSignalSDKWorker.js (from https://khushii.org/home/)
+18:58:21	Warning: 	Moved Permanently for https://khushii.org/?p=249
+18:58:21	Warning: 	File has moved from https://khushii.org/?p=249 to https://khushii.org/resources/annual-reports/
+18:58:21	Error: 	"Not Found" (404) at link https://khushii.org/resources/annual-reports/OneSignalSDKUpdaterWorker.js (from https://khushii.org/resources/annual-reports/)
+18:58:22	Error: 	"Not Found" (404) at link https://khushii.org/resources/annual-reports/OneSignalSDKWorker.js (from https://khushii.org/resources/annual-reports/)
+18:58:23	Warning: 	Moved Permanently for https://khushii.org/?p=250
+18:58:23	Warning: 	File has moved from https://khushii.org/?p=250 to https://khushii.org/resources/annual-reports/fcra-reports/
+18:58:24	Error: 	"Not Found" (404) at link https://khushii.org/resources/annual-reports/fcra-reports/OneSignalSDKUpdaterWorker.js (from https://khushii.org/resources/annual-reports/fcra-reports/)
+18:58:24	Error: 	"Not Found" (404) at link https://khushii.org/resources/annual-reports/fcra-reports/OneSignalSDKWorker.js (from https://khushii.org/resources/annual-reports/fcra-reports/)
+18:58:26	Warning: 	Moved Permanently for https://khushii.org/?p=1395
+18:58:26	Warning: 	File has moved from https://khushii.org/?p=1395 to https://khushii.org/newsletter/
+18:58:27	Error: 	"Not Found" (404) at link https://khushii.org/newsletter/OneSignalSDKUpdaterWorker.js (from https://khushii.org/newsletter/)
+18:58:27	Error: 	"Not Found" (404) at link https://khushii.org/newsletter/OneSignalSDKWorker.js (from https://khushii.org/newsletter/)
+18:58:28	Warning: 	Moved Permanently for https://khushii.org/?p=986
+18:58:28	Warning: 	File has moved from https://khushii.org/?p=986 to https://khushii.org/blog/
+18:58:29	Error: 	"Not Found" (404) at link https://khushii.org/blog/OneSignalSDKUpdaterWorker.js (from https://khushii.org/blog/)
+18:58:29	Error: 	"Not Found" (404) at link https://khushii.org/blog/OneSignalSDKWorker.js (from https://khushii.org/blog/)
+18:59:00	Warning: 	Moved Permanently for https://khushii.org/?p=17
+18:59:00	Warning: 	File has moved from https://khushii.org/?p=17 to https://khushii.org/galleries/
+18:59:00	Error: 	"Not Found" (404) at link https://khushii.org/galleries/OneSignalSDKUpdaterWorker.js (from https://khushii.org/galleries/)
+18:59:00	Error: 	"Not Found" (404) at link https://khushii.org/galleries/OneSignalSDKWorker.js (from https://khushii.org/galleries/)
+18:59:00	Warning: 	Moved Permanently for https://khushii.org/?p=19
+18:59:00	Warning: 	File has moved from https://khushii.org/?p=19 to https://khushii.org/contact/
+18:59:00	Error: 	"Not Found" (404) at link https://khushii.org/contact/OneSignalSDKUpdaterWorker.js (from https://khushii.org/contact/)
+18:59:00	Error: 	"Not Found" (404) at link https://khushii.org/contact/OneSignalSDKWorker.js (from https://khushii.org/contact/)
+18:59:00	Warning: 	Moved Permanently for https://khushii.org/?p=2106
+18:59:00	Warning: 	File has moved from https://khushii.org/?p=2106 to https://khushii.org/donation/
+18:59:00	Error: 	"Not Found" (404) at link https://khushii.org/donation/OneSignalSDKUpdaterWorker.js (from https://khushii.org/donation/)
+18:59:00	Error: 	"Not Found" (404) at link https://khushii.org/donation/OneSignalSDKWorker.js (from https://khushii.org/donation/)
+18:59:09	Warning: 	Moved Permanently for https://khushii.org/?p=263
+18:59:09	Warning: 	File has moved from https://khushii.org/?p=263 to https://khushii.org/ambassadors/
+18:59:09	Error: 	"Not Found" (404) at link https://khushii.org/ambassadors/OneSignalSDKUpdaterWorker.js (from https://khushii.org/ambassadors/)
+18:59:09	Error: 	"Not Found" (404) at link https://khushii.org/ambassadors/OneSignalSDKWorker.js (from https://khushii.org/ambassadors/)
+18:59:09	Warning: 	Moved Permanently for https://khushii.org/?p=239
+18:59:09	Warning: 	File has moved from https://khushii.org/?p=239 to https://khushii.org/careers/
+18:59:09	Error: 	"Not Found" (404) at link https://khushii.org/careers/OneSignalSDKUpdaterWorker.js (from https://khushii.org/careers/)
+18:59:09	Error: 	"Not Found" (404) at link https://khushii.org/careers/OneSignalSDKWorker.js (from https://khushii.org/careers/)
+18:59:09	Warning: 	Moved Permanently for https://khushii.org/?p=2671
+18:59:09	Warning: 	File has moved from https://khushii.org/?p=2671 to https://khushii.org/privacy-policy-2/
+18:59:09	Error: 	"Not Found" (404) at link https://khushii.org/privacy-policy-2/OneSignalSDKUpdaterWorker.js (from https://khushii.org/privacy-policy-2/)
+18:59:09	Error: 	"Not Found" (404) at link https://khushii.org/privacy-policy-2/OneSignalSDKWorker.js (from https://khushii.org/privacy-policy-2/)
+18:59:09	Warning: 	Moved Permanently for https://khushii.org/?p=463
+18:59:09	Warning: 	File has moved from https://khushii.org/?p=463 to https://khushii.org/awards/caf/
+18:59:09	Error: 	"Not Found" (404) at link https://khushii.org/awards/caf/OneSignalSDKUpdaterWorker.js (from https://khushii.org/awards/caf/)
+18:59:09	Error: 	"Not Found" (404) at link https://khushii.org/awards/caf/OneSignalSDKWorker.js (from https://khushii.org/awards/caf/)
+18:59:13	Warning: 	Moved Permanently for https://khushii.org/?p=3656
+18:59:13	Warning: 	File has moved from https://khushii.org/?p=3656 to https://khushii.org/artwork/b-prabha/
+18:59:13	Error: 	"Not Found" (404) at link https://khushii.org/artwork/b-prabha/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/b-prabha/)
+18:59:13	Error: 	"Not Found" (404) at link https://khushii.org/artwork/b-prabha/OneSignalSDKWorker.js (from https://khushii.org/artwork/b-prabha/)
+18:59:18	Error: 	"Not Found" (404) at link https://khushii.org/wp-content/themes/khushii/css/style6.css (from https://khushii.org/donate-2/)
+18:59:18	Warning: 	Moved Permanently for https://khushii.org/?p=261
+18:59:18	Warning: 	File has moved from https://khushii.org/?p=261 to https://khushii.org/donate-2/
+18:59:18	Error: 	"Not Found" (404) at link https://khushii.org/donate-2/OneSignalSDKUpdaterWorker.js (from https://khushii.org/donate-2/)
+18:59:18	Error: 	"Not Found" (404) at link https://khushii.org/donate-2/OneSignalSDKWorker.js (from https://khushii.org/donate-2/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=717
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=717 to https://khushii.org/stories/tailoring-her-own-future/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/tailoring-her-own-future/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/tailoring-her-own-future/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/tailoring-her-own-future/OneSignalSDKWorker.js (from https://khushii.org/stories/tailoring-her-own-future/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=730
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=730 to https://khushii.org/stories/sow-the-seeds-for-success/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/sow-the-seeds-for-success/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/sow-the-seeds-for-success/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/sow-the-seeds-for-success/OneSignalSDKWorker.js (from https://khushii.org/stories/sow-the-seeds-for-success/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=731
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=731 to https://khushii.org/stories/rashid-rediscovers-joy-of-classes/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/rashid-rediscovers-joy-of-classes/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/rashid-rediscovers-joy-of-classes/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/rashid-rediscovers-joy-of-classes/OneSignalSDKWorker.js (from https://khushii.org/stories/rashid-rediscovers-joy-of-classes/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=732
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=732 to https://khushii.org/stories/khushii-helps-abhishek-overcome-learning-issues/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-helps-abhishek-overcome-learning-issues/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/khushii-helps-abhishek-overcome-learning-issues/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-helps-abhishek-overcome-learning-issues/OneSignalSDKWorker.js (from https://khushii.org/stories/khushii-helps-abhishek-overcome-learning-issues/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=733
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=733 to https://khushii.org/stories/khushii-brings-quality-education-to-harchandpur/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-brings-quality-education-to-harchandpur/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/khushii-brings-quality-education-to-harchandpur/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-brings-quality-education-to-harchandpur/OneSignalSDKWorker.js (from https://khushii.org/stories/khushii-brings-quality-education-to-harchandpur/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=734
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=734 to https://khushii.org/stories/thanisandra-school-gets-child-friendly-playground/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/thanisandra-school-gets-child-friendly-playground/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/thanisandra-school-gets-child-friendly-playground/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/thanisandra-school-gets-child-friendly-playground/OneSignalSDKWorker.js (from https://khushii.org/stories/thanisandra-school-gets-child-friendly-playground/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=737
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=737 to https://khushii.org/stories/khushii-helps-gayatri-gain-financial-independence/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-helps-gayatri-gain-financial-independence/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/khushii-helps-gayatri-gain-financial-independence/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-helps-gayatri-gain-financial-independence/OneSignalSDKWorker.js (from https://khushii.org/stories/khushii-helps-gayatri-gain-financial-independence/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=738
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=738 to https://khushii.org/stories/khushii-helps-nisha-pursue-her-dream-career/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-helps-nisha-pursue-her-dream-career/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/khushii-helps-nisha-pursue-her-dream-career/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-helps-nisha-pursue-her-dream-career/OneSignalSDKWorker.js (from https://khushii.org/stories/khushii-helps-nisha-pursue-her-dream-career/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=739
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=739 to https://khushii.org/stories/khushii-recharges-mohinis-flagging-spirits/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-recharges-mohinis-flagging-spirits/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/khushii-recharges-mohinis-flagging-spirits/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-recharges-mohinis-flagging-spirits/OneSignalSDKWorker.js (from https://khushii.org/stories/khushii-recharges-mohinis-flagging-spirits/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=1404
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=1404 to https://khushii.org/stories/khushii-helps-rashid-to-rediscover-the-joy-of-classes-and-classmates/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-helps-rashid-to-rediscover-the-joy-of-classes-and-classmates/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/khushii-helps-rashid-to-rediscover-the-joy-of-classes-and-classmates/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-helps-rashid-to-rediscover-the-joy-of-classes-and-classmates/OneSignalSDKWorker.js (from https://khushii.org/stories/khushii-helps-rashid-to-rediscover-the-joy-of-classes-and-classmates/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=1610
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=1610 to https://khushii.org/stories/khushii-rekindles-neetus-lost-interest-in-studies/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-rekindles-neetus-lost-interest-in-studies/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/khushii-rekindles-neetus-lost-interest-in-studies/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-rekindles-neetus-lost-interest-in-studies/OneSignalSDKWorker.js (from https://khushii.org/stories/khushii-rekindles-neetus-lost-interest-in-studies/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=3144
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=3144 to https://khushii.org/stories/khushii-helps-uneducated-youth-to-earn-a-respectable-livelihood/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-helps-uneducated-youth-to-earn-a-respectable-livelihood/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/khushii-helps-uneducated-youth-to-earn-a-respectable-livelihood/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/khushii-helps-uneducated-youth-to-earn-a-respectable-livelihood/OneSignalSDKWorker.js (from https://khushii.org/stories/khushii-helps-uneducated-youth-to-earn-a-respectable-livelihood/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=3145
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=3145 to https://khushii.org/stories/tailoring-her-own-future-2/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/tailoring-her-own-future-2/OneSignalSDKUpdaterWorker.js (from https://khushii.org/stories/tailoring-her-own-future-2/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/stories/tailoring-her-own-future-2/OneSignalSDKWorker.js (from https://khushii.org/stories/tailoring-her-own-future-2/)
+18:59:25	Warning: 	Moved Permanently for https://khushii.org/?p=3239
+18:59:25	Warning: 	File has moved from https://khushii.org/?p=3239 to https://khushii.org/artworks/
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/artworks/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artworks/)
+18:59:25	Error: 	"Not Found" (404) at link https://khushii.org/artworks/OneSignalSDKWorker.js (from https://khushii.org/artworks/)
+19:01:28	Error: 	Exit requested by shell or user
+19:01:28	Warning: 	Moved Permanently for https://khushii.org/?p=3119
+19:01:28	Warning: 	File has moved from https://khushii.org/?p=3119 to https://khushii.org/yuvashree/
+19:01:28	Error: 	"Not Found" (404) at link https://khushii.org/yuvashree/OneSignalSDKUpdaterWorker.js (from https://khushii.org/yuvashree/)
+19:01:28	Error: 	"Not Found" (404) at link https://khushii.org/yuvashree/OneSignalSDKWorker.js (from https://khushii.org/yuvashree/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=2659
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=2659 to https://khushii.org/dignity-kits-enhance-enrolment-and-keep-girls-in-school/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/dignity-kits-enhance-enrolment-and-keep-girls-in-school/OneSignalSDKUpdaterWorker.js (from https://khushii.org/dignity-kits-enhance-enrolment-and-keep-girls-in-school/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/dignity-kits-enhance-enrolment-and-keep-girls-in-school/OneSignalSDKWorker.js (from https://khushii.org/dignity-kits-enhance-enrolment-and-keep-girls-in-school/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=2465
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=2465 to https://khushii.org/education-in-covid-times-a-multi-front-issue/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/education-in-covid-times-a-multi-front-issue/OneSignalSDKUpdaterWorker.js (from https://khushii.org/education-in-covid-times-a-multi-front-issue/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/education-in-covid-times-a-multi-front-issue/OneSignalSDKWorker.js (from https://khushii.org/education-in-covid-times-a-multi-front-issue/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=2371
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=2371 to https://khushii.org/sexual-health-and-reproduction-education/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/sexual-health-and-reproduction-education/OneSignalSDKUpdaterWorker.js (from https://khushii.org/sexual-health-and-reproduction-education/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/sexual-health-and-reproduction-education/OneSignalSDKWorker.js (from https://khushii.org/sexual-health-and-reproduction-education/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=2307
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=2307 to https://khushii.org/a-lost-generation-what-we-must-do/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/a-lost-generation-what-we-must-do/OneSignalSDKUpdaterWorker.js (from https://khushii.org/a-lost-generation-what-we-must-do/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/a-lost-generation-what-we-must-do/OneSignalSDKWorker.js (from https://khushii.org/a-lost-generation-what-we-must-do/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=2113
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=2113 to https://khushii.org/khushiis-sexual-health-reproductive-education-shre/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/khushiis-sexual-health-reproductive-education-shre/OneSignalSDKUpdaterWorker.js (from https://khushii.org/khushiis-sexual-health-reproductive-education-shre/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/khushiis-sexual-health-reproductive-education-shre/OneSignalSDKWorker.js (from https://khushii.org/khushiis-sexual-health-reproductive-education-shre/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=1733
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=1733 to https://khushii.org/khushii-place-women-on-the-path-to-financial-independence/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/khushii-place-women-on-the-path-to-financial-independence/OneSignalSDKUpdaterWorker.js (from https://khushii.org/khushii-place-women-on-the-path-to-financial-independence/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/khushii-place-women-on-the-path-to-financial-independence/OneSignalSDKWorker.js (from https://khushii.org/khushii-place-women-on-the-path-to-financial-independence/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=1724
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=1724 to https://khushii.org/khushii-brings-a-glimmer-of-hope-to-savitri-life/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/khushii-brings-a-glimmer-of-hope-to-savitri-life/OneSignalSDKUpdaterWorker.js (from https://khushii.org/khushii-brings-a-glimmer-of-hope-to-savitri-life/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/khushii-brings-a-glimmer-of-hope-to-savitri-life/OneSignalSDKWorker.js (from https://khushii.org/khushii-brings-a-glimmer-of-hope-to-savitri-life/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=1378
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=1378 to https://khushii.org/zero-tolerance-for-bullying-khushii-standing-against-bullying-in-schools/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/zero-tolerance-for-bullying-khushii-standing-against-bullying-in-schools/OneSignalSDKUpdaterWorker.js (from https://khushii.org/zero-tolerance-for-bullying-khushii-standing-against-bullying-in-schools/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/zero-tolerance-for-bullying-khushii-standing-against-bullying-in-schools/OneSignalSDKWorker.js (from https://khushii.org/zero-tolerance-for-bullying-khushii-standing-against-bullying-in-schools/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=1278
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=1278 to https://khushii.org/skill-building-of-youth-through-generals-duty-attendant-course/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/skill-building-of-youth-through-generals-duty-attendant-course/OneSignalSDKUpdaterWorker.js (from https://khushii.org/skill-building-of-youth-through-generals-duty-attendant-course/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/skill-building-of-youth-through-generals-duty-attendant-course/OneSignalSDKWorker.js (from https://khushii.org/skill-building-of-youth-through-generals-duty-attendant-course/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=2108
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=2108 to https://khushii.org/donation/foreign-donor/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/donation/foreign-donor/OneSignalSDKUpdaterWorker.js (from https://khushii.org/donation/foreign-donor/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/donation/foreign-donor/OneSignalSDKWorker.js (from https://khushii.org/donation/foreign-donor/)
+19:01:29	Error: 	"Bad Request" (400) at link https://khushii.org/wp-admin/admin-ajax.php (from https://khushii.org/jeetaga-india/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=462
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=462 to https://khushii.org/awards/tiss/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/awards/tiss/OneSignalSDKUpdaterWorker.js (from https://khushii.org/awards/tiss/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/awards/tiss/OneSignalSDKWorker.js (from https://khushii.org/awards/tiss/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=464
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=464 to https://khushii.org/awards/gptw/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/awards/gptw/OneSignalSDKUpdaterWorker.js (from https://khushii.org/awards/gptw/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/awards/gptw/OneSignalSDKWorker.js (from https://khushii.org/awards/gptw/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=3655
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=3655 to https://khushii.org/artwork/harmeet-rattan-3/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/artwork/harmeet-rattan-3/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/harmeet-rattan-3/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/artwork/harmeet-rattan-3/OneSignalSDKWorker.js (from https://khushii.org/artwork/harmeet-rattan-3/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=3657
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=3657 to https://khushii.org/artwork/manisha-agrawal-3/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/artwork/manisha-agrawal-3/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/manisha-agrawal-3/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/artwork/manisha-agrawal-3/OneSignalSDKWorker.js (from https://khushii.org/artwork/manisha-agrawal-3/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=246
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=246 to https://khushii.org/arts-events/events/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/arts-events/events/OneSignalSDKUpdaterWorker.js (from https://khushii.org/arts-events/events/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/arts-events/events/OneSignalSDKWorker.js (from https://khushii.org/arts-events/events/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=3210
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=3210 to https://khushii.org/artwork/shrushti-rao/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/artwork/shrushti-rao/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/shrushti-rao/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/artwork/shrushti-rao/OneSignalSDKWorker.js (from https://khushii.org/artwork/shrushti-rao/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=3211
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=3211 to https://khushii.org/artwork/anasuya-bommanaboina/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/artwork/anasuya-bommanaboina/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/anasuya-bommanaboina/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/artwork/anasuya-bommanaboina/OneSignalSDKWorker.js (from https://khushii.org/artwork/anasuya-bommanaboina/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=3233
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=3233 to https://khushii.org/artwork/nishant-dange/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/artwork/nishant-dange/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/nishant-dange/)
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/artwork/nishant-dange/OneSignalSDKWorker.js (from https://khushii.org/artwork/nishant-dange/)
+19:01:29	Warning: 	Moved Permanently for https://khushii.org/?p=3234
+19:01:29	Warning: 	File has moved from https://khushii.org/?p=3234 to https://khushii.org/artwork/sanuj-birla/
+19:01:29	Error: 	"Not Found" (404) at link https://khushii.org/artwork/sanuj-birla/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/sanuj-birla/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/sanuj-birla/OneSignalSDKWorker.js (from https://khushii.org/artwork/sanuj-birla/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3235
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3235 to https://khushii.org/artwork/douglas-john/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/douglas-john/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/douglas-john/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/douglas-john/OneSignalSDKWorker.js (from https://khushii.org/artwork/douglas-john/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3236
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3236 to https://khushii.org/artwork/sangeeta-gupta/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/sangeeta-gupta/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/sangeeta-gupta/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/sangeeta-gupta/OneSignalSDKWorker.js (from https://khushii.org/artwork/sangeeta-gupta/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3238
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3238 to https://khushii.org/artwork/anki-bhutia/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/anki-bhutia/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/anki-bhutia/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/anki-bhutia/OneSignalSDKWorker.js (from https://khushii.org/artwork/anki-bhutia/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3241
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3241 to https://khushii.org/artwork/kalpana-shah/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/kalpana-shah/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/kalpana-shah/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/kalpana-shah/OneSignalSDKWorker.js (from https://khushii.org/artwork/kalpana-shah/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3242
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3242 to https://khushii.org/artwork/pichwai/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/pichwai/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/pichwai/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/pichwai/OneSignalSDKWorker.js (from https://khushii.org/artwork/pichwai/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3243
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3243 to https://khushii.org/artwork/lydia-hoffnungsthal/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/lydia-hoffnungsthal/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/lydia-hoffnungsthal/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/lydia-hoffnungsthal/OneSignalSDKWorker.js (from https://khushii.org/artwork/lydia-hoffnungsthal/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3244
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3244 to https://khushii.org/artwork/afza-tamkanat/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/afza-tamkanat/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/afza-tamkanat/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/afza-tamkanat/OneSignalSDKWorker.js (from https://khushii.org/artwork/afza-tamkanat/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3245
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3245 to https://khushii.org/artwork/vijay-sharma/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/vijay-sharma/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/vijay-sharma/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/vijay-sharma/OneSignalSDKWorker.js (from https://khushii.org/artwork/vijay-sharma/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3246
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3246 to https://khushii.org/artwork/m-f-husain/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/m-f-husain/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/m-f-husain/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/m-f-husain/OneSignalSDKWorker.js (from https://khushii.org/artwork/m-f-husain/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3247
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3247 to https://khushii.org/artwork/sulakshana-dharmadhikari/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/sulakshana-dharmadhikari/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/sulakshana-dharmadhikari/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/sulakshana-dharmadhikari/OneSignalSDKWorker.js (from https://khushii.org/artwork/sulakshana-dharmadhikari/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3248
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3248 to https://khushii.org/artwork/sunim-koh/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/sunim-koh/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/sunim-koh/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/sunim-koh/OneSignalSDKWorker.js (from https://khushii.org/artwork/sunim-koh/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3249
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3249 to https://khushii.org/artwork/jean-humbert-savoldelli/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/jean-humbert-savoldelli/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/jean-humbert-savoldelli/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/jean-humbert-savoldelli/OneSignalSDKWorker.js (from https://khushii.org/artwork/jean-humbert-savoldelli/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3250
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3250 to https://khushii.org/artwork/bibhu-nath/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/bibhu-nath/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/bibhu-nath/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/bibhu-nath/OneSignalSDKWorker.js (from https://khushii.org/artwork/bibhu-nath/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3251
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3251 to https://khushii.org/artwork/manish-sharma/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/manish-sharma/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/manish-sharma/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/manish-sharma/OneSignalSDKWorker.js (from https://khushii.org/artwork/manish-sharma/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3252
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3252 to https://khushii.org/artwork/sanjay-dhawan/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/sanjay-dhawan/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/sanjay-dhawan/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/sanjay-dhawan/OneSignalSDKWorker.js (from https://khushii.org/artwork/sanjay-dhawan/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3253
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3253 to https://khushii.org/artwork/peaush-panesar/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/peaush-panesar/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/peaush-panesar/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/peaush-panesar/OneSignalSDKWorker.js (from https://khushii.org/artwork/peaush-panesar/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3254
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3254 to https://khushii.org/artwork/suresh-gulage/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/suresh-gulage/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/suresh-gulage/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/suresh-gulage/OneSignalSDKWorker.js (from https://khushii.org/artwork/suresh-gulage/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3276
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3276 to https://khushii.org/artwork/javiera-constenla/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/javiera-constenla/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/javiera-constenla/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/javiera-constenla/OneSignalSDKWorker.js (from https://khushii.org/artwork/javiera-constenla/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3277
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3277 to https://khushii.org/artwork/s-h-raza/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/s-h-raza/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/s-h-raza/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/s-h-raza/OneSignalSDKWorker.js (from https://khushii.org/artwork/s-h-raza/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3278
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3278 to https://khushii.org/artwork/ruchi-bakshi-sharma/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/ruchi-bakshi-sharma/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/ruchi-bakshi-sharma/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/ruchi-bakshi-sharma/OneSignalSDKWorker.js (from https://khushii.org/artwork/ruchi-bakshi-sharma/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3279
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3279 to https://khushii.org/artwork/vu-dinh-son/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/vu-dinh-son/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/vu-dinh-son/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/vu-dinh-son/OneSignalSDKWorker.js (from https://khushii.org/artwork/vu-dinh-son/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3280
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3280 to https://khushii.org/artwork/gulam-mohammed-sheikh/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/gulam-mohammed-sheikh/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/gulam-mohammed-sheikh/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/gulam-mohammed-sheikh/OneSignalSDKWorker.js (from https://khushii.org/artwork/gulam-mohammed-sheikh/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3281
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3281 to https://khushii.org/artwork/surya-prakash/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/surya-prakash/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/surya-prakash/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/surya-prakash/OneSignalSDKWorker.js (from https://khushii.org/artwork/surya-prakash/)
+19:01:30	Warning: 	Moved Permanently for https://khushii.org/?p=3282
+19:01:30	Warning: 	File has moved from https://khushii.org/?p=3282 to https://khushii.org/artwork/pichwai-2/
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/pichwai-2/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/pichwai-2/)
+19:01:30	Error: 	"Not Found" (404) at link https://khushii.org/artwork/pichwai-2/OneSignalSDKWorker.js (from https://khushii.org/artwork/pichwai-2/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3283
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3283 to https://khushii.org/artwork/ghanshyam-gupta/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/ghanshyam-gupta/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/ghanshyam-gupta/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/ghanshyam-gupta/OneSignalSDKWorker.js (from https://khushii.org/artwork/ghanshyam-gupta/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3284
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3284 to https://khushii.org/artwork/devidas-dharmadhikari/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/devidas-dharmadhikari/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/devidas-dharmadhikari/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/devidas-dharmadhikari/OneSignalSDKWorker.js (from https://khushii.org/artwork/devidas-dharmadhikari/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3285
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3285 to https://khushii.org/artwork/manisha-agrawal/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/manisha-agrawal/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/manisha-agrawal/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/manisha-agrawal/OneSignalSDKWorker.js (from https://khushii.org/artwork/manisha-agrawal/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3286
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3286 to https://khushii.org/artwork/vinita-karim/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/vinita-karim/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/vinita-karim/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/vinita-karim/OneSignalSDKWorker.js (from https://khushii.org/artwork/vinita-karim/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3287
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3287 to https://khushii.org/artwork/nandan-purkayastha/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/nandan-purkayastha/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/nandan-purkayastha/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/nandan-purkayastha/OneSignalSDKWorker.js (from https://khushii.org/artwork/nandan-purkayastha/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3288
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3288 to https://khushii.org/artwork/pichwai-3/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/pichwai-3/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/pichwai-3/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/pichwai-3/OneSignalSDKWorker.js (from https://khushii.org/artwork/pichwai-3/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3289
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3289 to https://khushii.org/artwork/f-n-souza/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/f-n-souza/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/f-n-souza/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/f-n-souza/OneSignalSDKWorker.js (from https://khushii.org/artwork/f-n-souza/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3290
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3290 to https://khushii.org/artwork/hardik-kansara/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/hardik-kansara/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/hardik-kansara/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/hardik-kansara/OneSignalSDKWorker.js (from https://khushii.org/artwork/hardik-kansara/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3291
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3291 to https://khushii.org/artwork/bratin-khan/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/bratin-khan/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/bratin-khan/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/bratin-khan/OneSignalSDKWorker.js (from https://khushii.org/artwork/bratin-khan/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3292
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3292 to https://khushii.org/artwork/vijay-vansh/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/vijay-vansh/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/vijay-vansh/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/vijay-vansh/OneSignalSDKWorker.js (from https://khushii.org/artwork/vijay-vansh/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3293
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3293 to https://khushii.org/artwork/m-f-husain-2/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/m-f-husain-2/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/m-f-husain-2/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/m-f-husain-2/OneSignalSDKWorker.js (from https://khushii.org/artwork/m-f-husain-2/)
+19:01:31	Warning: 	Moved Permanently for https://khushii.org/?p=3294
+19:01:31	Warning: 	File has moved from https://khushii.org/?p=3294 to https://khushii.org/artwork/kp-pradeep-kumar/
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/kp-pradeep-kumar/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artwork/kp-pradeep-kumar/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artwork/kp-pradeep-kumar/OneSignalSDKWorker.js (from https://khushii.org/artwork/kp-pradeep-kumar/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artworks/page/2/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artworks/page/2/)
+19:01:31	Error: 	"Not Found" (404) at link https://khushii.org/artworks/page/2/OneSignalSDKWorker.js (from https://khushii.org/artworks/page/2/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/n-s-bendre/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/n-s-bendre/ (from https://khushii.org/artworks/page/2/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/ram-kumar/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/ram-kumar/ (from https://khushii.org/artworks/page/2/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/v-s-gaitonde/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/v-s-gaitonde/ (from https://khushii.org/artworks/page/2/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/shuvaprasanna/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/shuvaprasanna/ (from https://khushii.org/artworks/page/2/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/k-h-ara/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/k-h-ara/ (from https://khushii.org/artworks/page/2/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artworks/page/1/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artworks/page/1/ (from https://khushii.org/artworks/page/2/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artworks/page/4/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artworks/page/4/ (from https://khushii.org/artworks/page/2/)
+19:01:34	Error: 	"Not Found" (404) at link https://khushii.org/artworks/page/3/OneSignalSDKUpdaterWorker.js (from https://khushii.org/artworks/page/3/)
+19:01:34	Error: 	"Not Found" (404) at link https://khushii.org/artworks/page/3/OneSignalSDKWorker.js (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/m-f-husain-4/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/m-f-husain-4/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/sanjib-roy/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/sanjib-roy/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/abhimanue-govindan/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/abhimanue-govindan/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/ravinder-dutt-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/ravinder-dutt-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/pichwai-6/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/pichwai-6/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/rinku-chauhan/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/rinku-chauhan/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/lalu-prasad-shaw-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/lalu-prasad-shaw-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/vijay-sharma-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/vijay-sharma-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/f-n-souza-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/f-n-souza-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/sanjay-dhawan-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/sanjay-dhawan-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/surya-prakash-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/surya-prakash-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/sandesh-khule/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/sandesh-khule/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/pichwai-7/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/pichwai-7/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/m-f-husain-5/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/m-f-husain-5/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/sunim-koh-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/sunim-koh-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/jehangir-sabavala/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/jehangir-sabavala/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/valay-shende-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/valay-shende-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/harmeet-rattan-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/harmeet-rattan-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/pichwai-8/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/pichwai-8/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/sunayana-malhotra/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/sunayana-malhotra/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/eddy-dinar/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/eddy-dinar/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/s-h-raza-3/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/s-h-raza-3/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/m-f-husain-6/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/m-f-husain-6/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/naman-mahipal/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/naman-mahipal/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/n-s-bendre-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/n-s-bendre-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/dilip-oinam/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/dilip-oinam/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/sanjay-devsale/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/sanjay-devsale/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/binoy-varghese/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/binoy-varghese/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/nandan-purkayastha-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/nandan-purkayastha-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/ruchi-bakshi-sharma-3/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/ruchi-bakshi-sharma-3/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/sangeeta-abhay/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/sangeeta-abhay/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/m-f-husain-7/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/m-f-husain-7/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/ramesh-gorjala/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/ramesh-gorjala/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/pichwai-9/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/pichwai-9/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/virendra-bannu/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/virendra-bannu/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/pichwai-10/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/pichwai-10/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/jean-humbert-savoldelli-3/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/jean-humbert-savoldelli-3/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/asit-kumar-patnaik/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/asit-kumar-patnaik/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/vinita-karim-2/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/vinita-karim-2/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artwork/mintu-mallick/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artwork/mintu-mallick/ (from https://khushii.org/artworks/page/3/)
+19:01:34	Warning: 	File not added due to mirror cancel: https://khushii.org/artworks/page/5/
+19:01:34	Error: 	"mirror stopped by user" (-1) at link https://khushii.org/artworks/page/5/ (from https://khushii.org/artworks/page/3/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 5 seconds : 1630 links scanned, 1276 files written (129041597 bytes overall) [113052183 bytes received at 266005 bytes/sec], 39678547 bytes transferred using HTTP compression in 920 files, ratio 19%, 37.0 requests per connection
+(256 errors, 247 warnings, 0 messages)
